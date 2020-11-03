@@ -1,0 +1,22 @@
+Webpack (import/exports)
+    Сборщик проекта в котором указываем входную точку для приложения и будет
+    собирать в один js файл
+
+    Babel
+    преобразует js в более старые версии
+
+    Scss
+    препроцессор css
+
+    Eslint
+    следит за чистотой
+
+    2 Modes
+    - Dev
+        Dev server(перезагрузка окно браузера при сохранении),
+         sourcemaps(исходные карты scss),
+         eslint,
+         not minified js and css
+    - Prod
+        Minified js
+Git
